@@ -29,7 +29,7 @@ class Resume extends Component {
             <div className="max-w-5xl mx-auto text-center text-white-100 bg-black-800 font-bold text-2xl pt-4 pb-2">
               My Skills and Experiences
             </div>
-              <div className="max-w-5xl mx-auto text-center">
+              <div classnpName="max-w-5xl mx-auto text-center">
               <h2>University of Ottawa</h2>
               <h3>Software Engineering class of 2022</h3>
               </div>

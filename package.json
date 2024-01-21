@@ -7,7 +7,6 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
-    "aws-amplify": "^6.0.12",
     "aws-sdk": "^2.1540.0",
     "axios": "^1.6.5",
     "bootstrap": "^4.5.2",
@@ -47,10 +46,6 @@
     ]
   },
   "devDependencies": {
-    "@aws-amplify/backend": "^0.10.2",
-    "@aws-amplify/backend-cli": "^0.9.7",
-    "aws-cdk": "^2.122.0",
-    "aws-cdk-lib": "^2.122.0",
     "constructs": "^10.3.0",
     "gh-pages": "^6.1.1",
     "typescript": "^5.3.3"
