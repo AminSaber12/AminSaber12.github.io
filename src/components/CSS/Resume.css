@@ -1,0 +1,42 @@
+.boxedIn{
+    background-color: lightgrey;
+    width: 1000px;
+    padding: 15px;
+    margin-left: 900px;
+}
+h2{
+    font-size: 2rem;
+}
+
+.categories{
+    padding-left: 30px;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+a:hover{
+    color:black;
+}
+
+h4{
+    padding: 5px 5px;
+    font-size: 1.7rem;
+    display: inline;
+}
+
+h5{
+    font-size:1.5rem;
+    text-align: center;
+}
+
+.uniNam{
+    font-size: 1.1rem;
+    margin-left:15px;
+}
+
+.uniNam{
+    font-size: 1.1rem;
+}
