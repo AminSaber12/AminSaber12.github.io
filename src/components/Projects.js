@@ -1,10 +1,14 @@
-import React from "react"
+import React, {Component} from "react"
 import Cards from "./Cards"
 
-export default function Projects(){
-    return (
-
-    <Cards />
-    
-    );
+class Projects extends Component{
+    render(){
+        return (
+            <main className="relative">
+                <Cards />
+            </main>  
+            );
+    }
 }
+
+export default Projects;

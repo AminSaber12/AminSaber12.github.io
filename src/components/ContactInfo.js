@@ -1,5 +1,4 @@
-import React, { Component, useState } from "react";
-import {db} from '../firebase';
+import React, { Component } from "react";
 import AWS from 'aws-sdk'
 
 class ContactInfo extends Component{

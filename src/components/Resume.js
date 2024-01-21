@@ -27,7 +27,8 @@ class Resume extends Component {
 
           <Fragment>
             <div className="max-w-5xl mx-auto text-center text-white-100 bg-black-800 font-bold text-2xl pt-4 pb-2">
-              My Skills and Experiences</div>
+              My Skills and Experiences
+            </div>
               <div className="max-w-5xl mx-auto text-center">
               <h2>University of Ottawa</h2>
               <h3>Software Engineering class of 2022</h3>
@@ -163,7 +164,8 @@ class Resume extends Component {
                   
                 </div>
                 <div className="flex justify-around bg-white">
-                <div className="max-w-xs text-white h-80 flex items-center text-xl justify-center font-bold bg-blue-800 rounded m-5 p-2 flex-auto">
+                <div className=
+                "max-w-xs text-white h-80 flex items-center text-xl justify-center font-bold bg-blue-800 rounded m-5 p-2 flex-auto">
                         <h1>TM4J</h1>
                   </div>
                   <div className="max-w-xs text-black h-80 flex items-center text-xl justify-center font-bold bg-gray-400 rounded m-5 p-2 flex-auto">

@@ -4,8 +4,10 @@ import CardItem from './CardItem';
 
 function Cards() {
   return (
-    <div className='cards'>
-      <h1>Check out these EPIC Projects!</h1>
+    <div>
+      <div className="max-w-5xl mx-auto text-center text-white-100 bg-black-800 font-bold text-2xl pt-4 pb-2">
+            Check out these EPIC Projects!
+      </div>
       <div className='cards__container'>
           <ul className='cards__items'>
             <CardItem
@@ -43,7 +45,7 @@ function Cards() {
             />
           </ul>
         </div>
-      </div>
+        </div>
   );
 }
 
